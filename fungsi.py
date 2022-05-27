@@ -2,6 +2,7 @@
 # jumlah_karakter = len("hello world")
 # print(jumlah_karakter)
 
+
 def fungsi_saya():
     print('selamat pagi')
     print('nama saya triyono')
